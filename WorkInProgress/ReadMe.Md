@@ -29,7 +29,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando seu Primeiro Site Completo com HTML](https://web.dio.me/lab/criando-seu-primeiro-site-completo-com-html/learning/d6ceca11-2858-4a8f-a76f-4d63a91cc603)[Entendo o Desafio](https://web.dio.me/lab/criando-seu-primeiro-site-completo-com-html/learning/70632713-4033-4a0b-bd98-1f9064d84692)
+- [Criando seu Primeiro Site Completo com HTML](https://web.dio.me/lab/criando-seu-primeiro-site-completo-com-html/learning/d6ceca11-2858-4a8f-a76f-4d63a91cc603)
+- [Entendo o Desafio](https://web.dio.me/lab/criando-seu-primeiro-site-completo-com-html/learning/70632713-4033-4a0b-bd98-1f9064d84692)
 
 
 
